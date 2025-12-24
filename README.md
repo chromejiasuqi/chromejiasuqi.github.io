@@ -1,4 +1,4 @@
-# Chrome加速器 - 12月17日19.9M/S|免费Clash节点/Shadowrocket节点/V2ray节点/SSR节点/Singbox节点节点推荐，V2rayC梯子购买推荐  更新时间 2025-12-17 11:24:10
+# Chrome加速器 - 12月24日18.7M/S|免费Shadowrocket节点/SSR节点/V2ray节点/Clash节点/Singbox节点节点推荐，V2rayC梯子购买推荐  更新时间 2025-12-24 12:12:30
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://chromejiasuqi.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://chromejiasuqi.github.io/uploads/2025/12/0-20251217.yaml
-- https://chromejiasuqi.github.io/uploads/2025/12/1-20251217.yaml
-- https://chromejiasuqi.github.io/uploads/2025/12/2-20251217.yaml
-- https://chromejiasuqi.github.io/uploads/2025/12/3-20251217.yaml
-- https://chromejiasuqi.github.io/uploads/2025/12/4-20251217.yaml
+- https://chromejiasuqi.github.io/uploads/2025/12/0-20251224.yaml
+- https://chromejiasuqi.github.io/uploads/2025/12/1-20251224.yaml
+- https://chromejiasuqi.github.io/uploads/2025/12/2-20251224.yaml
+- https://chromejiasuqi.github.io/uploads/2025/12/3-20251224.yaml
+- https://chromejiasuqi.github.io/uploads/2025/12/4-20251224.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://chromejiasuqi.github.io/uploads/2025/12/0-20251217.txt
-- https://chromejiasuqi.github.io/uploads/2025/12/1-20251217.txt
-- https://chromejiasuqi.github.io/uploads/2025/12/2-20251217.txt
-- https://chromejiasuqi.github.io/uploads/2025/12/3-20251217.txt
-- https://chromejiasuqi.github.io/uploads/2025/12/4-20251217.txt
+- https://chromejiasuqi.github.io/uploads/2025/12/0-20251224.txt
+- https://chromejiasuqi.github.io/uploads/2025/12/1-20251224.txt
+- https://chromejiasuqi.github.io/uploads/2025/12/2-20251224.txt
+- https://chromejiasuqi.github.io/uploads/2025/12/3-20251224.txt
+- https://chromejiasuqi.github.io/uploads/2025/12/4-20251224.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://chromejiasuqi.github.io/uploads/2025/12/20251217.json
+- https://chromejiasuqi.github.io/uploads/2025/12/20251224.json
 
 ## 更多Clash节点订阅 ：
 
